@@ -1,0 +1,2 @@
+C:\Users\cedri\source\repos\Cpp3D\x64\Debug\glfw3.dll
+C:\Users\cedri\source\repos\Cpp3D\Cpp3D\x64\Debug\Cpp3D.vcxproj.Up2Date
